@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm
 Saidou Salif</h1>
-<h3 align="center">Full Stack Developper</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761108428b394265c2e26bc3cf4f3f92a53a819fd3c1&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidou11&label=Profile%20views&color=0e75b6&style=flat" alt="saidou11" /> </p>
