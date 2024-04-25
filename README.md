@@ -16,51 +16,40 @@ Saidou Salif</h1>
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git"
             width="40"
-            height="40"
-          />
-        </a>
+            height="40"/> </a>
         <a href=" https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
             alt="tailwind css."
             width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href=" https://www.typescriptlang.org/"
+            height="40"/>  </a>
+        <a href=" https://www.typescriptlang.org/"
           target="_blank"
-          rel="noreferrer"
-        >
-          <img
+          rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
             alt="typescript"
             width="40"
             height="40"
-          />
-        </a>
+          /></a>
 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
             alt="react"
             width="40"
-            height="40"
-          />
-        </a>
+            height="40" /> </a>
+ 
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
             alt="next.js"
             width="40"
-            height="40"
-          />
-        </a>
+            height="40" />
+        </a>    
       </p>
 
 
