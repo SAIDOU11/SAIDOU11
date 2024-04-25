@@ -15,53 +15,6 @@ Saidou Salif</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href=" https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-            alt="tailwind css."
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href=" https://www.typescriptlang.org/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-            alt="Typescript."
-            width="40"
-            height="40"
-          />
-        </a>
-
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
-            alt="next.js"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidou11&show_icons=true&locale=en&layout=compact" alt="saidou11" /></p>
 
