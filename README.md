@@ -5,7 +5,7 @@ Saidou Salif</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidou11&label=Profile%20views&color=0e75b6&style=flat" alt="saidou11" /> </p>
 
-- 🔭 I’m currently working on **Front-end Projects**
+- 🔭 I’m currently working on **Next.js Projects**
 
 - 📫 How to reach me **saidousalif@hotmail.com**
 
